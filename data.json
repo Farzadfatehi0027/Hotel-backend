@@ -1,0 +1,34 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Hotel Azadi",
+      "city": "Tehran",
+      "stars": 5,
+      "price_per_night": 3200000,
+      "image": "https://example.com/azadi.jpg",
+      "amenities": ["Wifi", "Pool", "Gym", "Parking"],
+      "description": "A luxury 5-star hotel located in north Tehran with a beautiful mountain view."
+    },
+    {
+      "id": 2,
+      "name": "Homa Hotel",
+      "city": "Mashhad",
+      "stars": 4,
+      "price_per_night": 2100000,
+      "image": "https://example.com/homa.jpg",
+      "amenities": ["Wifi", "Breakfast", "Taxi Service"],
+      "description": "A modern hotel close to the holy shrine, perfect for family trips."
+    },
+    {
+      "id": 3,
+      "name": "Kish Marina Hotel",
+      "city": "Kish Island",
+      "stars": 5,
+      "price_per_night": 4500000,
+      "image": "https://example.com/marina.jpg",
+      "amenities": ["Beach Access", "Pool", "Restaurant"],
+      "description": "A seaside hotel with private beach access and luxury facilities."
+    }
+  ]
+}
