@@ -29,6 +29,176 @@
       "image": "https://example.com/marina.jpg",
       "amenities": ["Beach Access", "Pool", "Restaurant"],
       "description": "A seaside hotel with private beach access and luxury facilities."
+    },
+    {
+      "id": 4,
+      "name": "Pars Hotel",
+      "city": "Shiraz",
+      "stars": 4,
+      "price_per_night": 2600000,
+      "image": "https://example.com/pars.jpg",
+      "amenities": ["Wifi", "Restaurant", "Gym"],
+      "description": "Located in central Shiraz with easy access to historical sites."
+    },
+    {
+      "id": 5,
+      "name": "Gostaresh Hotel",
+      "city": "Tabriz",
+      "stars": 3,
+      "price_per_night": 1800000,
+      "image": "https://example.com/gostaresh.jpg",
+      "amenities": ["Wifi", "Parking"],
+      "description": "A comfortable 3-star hotel suitable for budget travelers."
+    },
+    {
+      "id": 6,
+      "name": "Mehr Hotel",
+      "city": "Yazd",
+      "stars": 4,
+      "price_per_night": 2400000,
+      "image": "https://example.com/mehr.jpg",
+      "amenities": ["Traditional Yard", "Wifi", "Breakfast"],
+      "description": "A traditional Iranian hotel located in the heart of the old city."
+    },
+    {
+      "id": 7,
+      "name": "Dariush Grand Hotel",
+      "city": "Kish Island",
+      "stars": 5,
+      "price_per_night": 5200000,
+      "image": "https://example.com/dariush.jpg",
+      "amenities": ["Pool", "Beach Access", "Restaurant", "Gym"],
+      "description": "A luxury hotel inspired by ancient Persian architecture."
+    },
+    {
+      "id": 8,
+      "name": "Esteghlal Hotel",
+      "city": "Tehran",
+      "stars": 5,
+      "price_per_night": 3900000,
+      "image": "https://example.com/esteghlal.jpg",
+      "amenities": ["Wifi", "Pool", "Spa"],
+      "description": "One of Tehran’s largest hotels with premium business facilities."
+    },
+    {
+      "id": 9,
+      "name": "Ahrab Hotel",
+      "city": "Tabriz",
+      "stars": 4,
+      "price_per_night": 2300000,
+      "image": "https://example.com/ahrab.jpg",
+      "amenities": ["Wifi", "Breakfast", "Taxi Service"],
+      "description": "A modern hotel offering quick access to city center attractions."
+    },
+    {
+      "id": 10,
+      "name": "Laleh Hotel",
+      "city": "Tehran",
+      "stars": 5,
+      "price_per_night": 3500000,
+      "image": "https://example.com/laleh.jpg",
+      "amenities": ["Gym", "Pool", "Restaurant"],
+      "description": "A famous hotel located near major museums and parks in Tehran."
+    },
+    {
+      "id": 11,
+      "name": "Parsian Hotel",
+      "city": "Shiraz",
+      "stars": 4,
+      "price_per_night": 2700000,
+      "image": "https://example.com/parsian.jpg",
+      "amenities": ["Wifi", "Breakfast", "Conference Hall"],
+      "description": "A popular hotel among business travelers with excellent service."
+    },
+    {
+      "id": 12,
+      "name": "Arg Hotel",
+      "city": "Kerman",
+      "stars": 3,
+      "price_per_night": 1600000,
+      "image": "https://example.com/arg.jpg",
+      "amenities": ["Wifi", "Parking"],
+      "description": "A simple and cozy hotel with easy access to city landmarks."
+    },
+    {
+      "id": 13,
+      "name": "Venus Hotel",
+      "city": "Isfahan",
+      "stars": 4,
+      "price_per_night": 2500000,
+      "image": "https://example.com/venus.jpg",
+      "amenities": ["Restaurant", "Wifi", "Gym"],
+      "description": "A beautifully designed hotel close to historic bridges."
+    },
+    {
+      "id": 14,
+      "name": "Qeshm Beach Hotel",
+      "city": "Qeshm",
+      "stars": 3,
+      "price_per_night": 1900000,
+      "image": "https://example.com/qeshm.jpg",
+      "amenities": ["Beach Access", "Breakfast"],
+      "description": "A relaxing seaside hotel perfect for vacation stays."
+    },
+    {
+      "id": 15,
+      "name": "Negin Hotel",
+      "city": "Mashhad",
+      "stars": 4,
+      "price_per_night": 2200000,
+      "image": "https://example.com/negin.jpg",
+      "amenities": ["Wifi", "Restaurant", "Parking"],
+      "description": "A clean and comfortable hotel close to the holy shrine."
+    },
+    {
+      "id": 16,
+      "name": "Simorgh Hotel",
+      "city": "Tehran",
+      "stars": 4,
+      "price_per_night": 2800000,
+      "image": "https://example.com/simorgh.jpg",
+      "amenities": ["Wifi", "Gym", "Breakfast"],
+      "description": "A modern hotel with great access to Tehran’s main streets."
+    },
+    {
+      "id": 17,
+      "name": "Aramis Hotel",
+      "city": "Tehran",
+      "stars": 4,
+      "price_per_night": 2900000,
+      "image": "https://example.com/aramis.jpg",
+      "amenities": ["Restaurant", "Wifi", "Taxi Service"],
+      "description": "A comfortable hotel situated on Valiasr Street."
+    },
+    {
+      "id": 18,
+      "name": "Shabestan Hotel",
+      "city": "Rasht",
+      "stars": 3,
+      "price_per_night": 1700000,
+      "image": "https://example.com/shabestan.jpg",
+      "amenities": ["Breakfast", "Parking"],
+      "description": "A cozy hotel located in the lush green city of Rasht."
+    },
+    {
+      "id": 19,
+      "name": "Grand Hotel",
+      "city": "Bandar Abbas",
+      "stars": 4,
+      "price_per_night": 2600000,
+      "image": "https://example.com/grand.jpg",
+      "amenities": ["Pool", "Wifi", "Restaurant"],
+      "description": "A seaside hotel offering beautiful views of the Persian Gulf."
+    },
+    {
+      "id": 20,
+      "name": "Safir Hotel",
+      "city": "Isfahan",
+      "stars": 4,
+      "price_per_night": 2400000,
+      "image": "https://example.com/safir.jpg",
+      "amenities": ["Gym", "Restaurant", "Wifi"],
+      "description": "A modern hotel located close to Naqsh-e Jahan Square."
     }
   ]
 }
